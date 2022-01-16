@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg93784"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="card grid.svg">
+  <defs
+     id="defs93778" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-100"
+     inkscape:cy="560"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1137"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata93781">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       style="display:inline"
+       id="g84750"
+       inkscape:label="Grid_Polar:X2:Y4"
+       transform="translate(17.832914,22.83875)">
+      <g
+         id="g84738"
+         inkscape:label="MajorXGridlines">
+        <path
+           id="path84736"
+           inkscape:label="MajorXDiv1"
+           style="fill:none;stroke:#000000;stroke-width:0.13229166"
+           d="M 88.000418,0 V 251.98917"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         id="g84746"
+         inkscape:label="MajorYGridlines">
+        <path
+           id="path84740"
+           inkscape:label="MajorYDiv1"
+           style="fill:none;stroke:#000000;stroke-width:0.13229166"
+           d="M 0,62.997293 H 176.00084"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path84742"
+           inkscape:label="MajorYDiv2"
+           style="fill:none;stroke:#000000;stroke-width:0.13229166"
+           d="M 0,125.99459 H 176.00084"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path84744"
+           inkscape:label="MajorYDiv3"
+           style="fill:none;stroke:#000000;stroke-width:0.13229166"
+           d="M 0,188.99188 H 176.00084"
+           inkscape:connector-curvature="0" />
+      </g>
+      <rect
+         id="rect84748"
+         inkscape:label="Border"
+         y="0"
+         x="0"
+         width="176.00084"
+         style="fill:none;stroke:#000000;stroke-width:0.13229166"
+         height="251.98917" />
+    </g>
+  </g>
+</svg>
